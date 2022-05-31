@@ -1,0 +1,5 @@
+C:/Users/tychi/YandexDisk/learning/unn/4/ADS/ConsoleEditor/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/tychi/YandexDisk/learning/unn/4/ADS/ConsoleEditor/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/tychi/YandexDisk/learning/unn/4/ADS/ConsoleEditor/out/build/x64-debug/ConsoleEditor/CMakeFiles/ConsoleEditor.dir
+C:/Users/tychi/YandexDisk/learning/unn/4/ADS/ConsoleEditor/out/build/x64-debug/ConsoleEditor/CMakeFiles/edit_cache.dir
+C:/Users/tychi/YandexDisk/learning/unn/4/ADS/ConsoleEditor/out/build/x64-debug/ConsoleEditor/CMakeFiles/rebuild_cache.dir

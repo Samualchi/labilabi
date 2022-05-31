@@ -1,0 +1,7 @@
+<read=c:/repos/www.txt>
+asdfsadf
+<read=c:/repos/www.txt>
+<color=2>
+sadfsadfsadf
+<font=Consolas>
+sdfasdfasf
